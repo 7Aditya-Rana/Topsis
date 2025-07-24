@@ -24,4 +24,4 @@ Returns: list: Preference scores for each alternative. list: Ranks of each alter
 You can install the package directly from [PyPI](https://pypi.org/) using `pip`:
 
 ```sh
-pip install 102217106_topsis
+pip install 102203528_topsis
